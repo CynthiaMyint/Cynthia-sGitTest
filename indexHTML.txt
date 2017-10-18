@@ -3,7 +3,7 @@
 		This is Head.
 	</HEAD>
 	<BODY>
-	
+		This is body.
 	</BODY>
 
 </HTML>
