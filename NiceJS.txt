@@ -4,3 +4,7 @@ var a = i + J ;
 i = 2;
 J = 8;
 a = i+J;
+
+18OCT2017 Second Commit
+-- Something experimental going on here 
+z= i + J;
